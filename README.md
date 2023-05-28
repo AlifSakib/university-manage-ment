@@ -12,4 +12,12 @@
 
 -> yarn add dotenv (installs dotenv as dependency) (dotenv is used to load environment variables from a .env file into process.env)
 
--> yarn add -D ts-node (installs ts-node as dev dependency) ts-node is a typescript execution environment and REPL for node.js, with an API compatible with node.js require. ts-node transpiles your typescript code on the fly and runs the javascript.
+-> connect to mongoose
+
+-> create espress server
+
+-> yarn add -D @types/express
+
+-> yarn add ts-node-dev --dev (installs ts-node-dev as dev dependency) (ts-node-dev is used to run the typescript files directly without compiling them to javascript files)
+
+-> yard add cors (installs cors as dependency) (cors is used to allow cross origin requests)
