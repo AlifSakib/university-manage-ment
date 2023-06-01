@@ -14,11 +14,11 @@
 
   "rules": {
     "no-unused-vars": "error",
+    "consistent-type-definitions": ["error", "type"],
     "no-console": "error",
     "no-undefined": "error",
     "no-unused-expressions": "error",
-    "no-unreachable": "error",
-    "consistent-type-definitions": ["error", "type"]
+    "no-unreachable": "error"
   },
 
   "env": {
