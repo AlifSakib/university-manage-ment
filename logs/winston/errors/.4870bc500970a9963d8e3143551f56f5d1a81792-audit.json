@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management-auth-service/logs/winston/errors/.4870bc500970a9963d8e3143551f56f5d1a81792-audit.json",
+    "files": [
+        {
+            "date": 1685709162376,
+            "name": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management-auth-service/logs/winston/errors/um-2023-06-02-18-error.log",
+            "hash": "3d524c81b0dc431a179fd7a9d88d59e2739b74ab0ee129038f79d189a58bd449"
+        }
+    ],
+    "hashType": "sha256"
+}
