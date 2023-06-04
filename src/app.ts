@@ -12,12 +12,6 @@ app.use(express.urlencoded({ extended: true }))
 // Application routes
 app.use('/api/v1/users', UserRoutes)
 
-// app.get('/', (req: Request, res: Response, next: NextFunction) => {
-//   // res.send('Application is running 🚀')
-//   throw new ApiError(404, 'Not found')
-//   next('Error')
-// })
-
 app.use(global_error_handler)
 
 export default app
