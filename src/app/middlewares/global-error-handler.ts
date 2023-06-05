@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-expressions */
 import { ErrorRequestHandler } from 'express'
 import { Error } from 'mongoose'
 import config from '../../config'
