@@ -1,0 +1,30 @@
+Tue Jun 06 2023 20:49:29 [um] info: Connected to database 🚀
+Tue Jun 06 2023 20:49:29 [um] info: Server launched 🚀 at port 5000
+Tue Jun 06 2023 20:49:32 [um] info: Global Error Handler [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "Role is required"
+  }
+]
+Tue Jun 06 2023 20:51:0 [um] info: SIGTERM received. Shutting down gracefully
+Tue Jun 06 2023 20:52:15 [um] info: Connected to database 🚀
+Tue Jun 06 2023 20:52:15 [um] info: Server launched 🚀 at port 5000
+Tue Jun 06 2023 20:52:21 [um] info: Global Error Handler [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "Role is required"
+  }
+]
+Tue Jun 06 2023 20:53:4 [um] info: SIGTERM received. Shutting down gracefully
