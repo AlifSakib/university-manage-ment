@@ -1,0 +1,14 @@
+Tue Jun 06 2023 23:59:20 [um] info: Connected to database 🚀
+Tue Jun 06 2023 23:59:20 [um] info: Server launched 🚀 at port 5000
+Tue Jun 06 2023 23:59:48 [um] info: Global Error Handler [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "Role is required"
+  }
+]

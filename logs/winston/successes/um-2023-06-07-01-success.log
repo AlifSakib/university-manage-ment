@@ -1,0 +1,18 @@
+Wed Jun 07 2023 1:27:54 [um] info: Connected to database 🚀
+Wed Jun 07 2023 1:27:54 [um] info: Server launched 🚀 at port 5000
+Wed Jun 07 2023 1:30:54 [um] info: Global Error Handler [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected number, received string"
+  }
+]
+Wed Jun 07 2023 1:54:30 [um] info: SIGTERM received. Shutting down gracefully
+Wed Jun 07 2023 1:54:58 [um] info: Connected to database 🚀
+Wed Jun 07 2023 1:54:58 [um] info: Server launched 🚀 at port 5000
+Wed Jun 07 2023 1:55:17 [um] info: SIGTERM received. Shutting down gracefully
