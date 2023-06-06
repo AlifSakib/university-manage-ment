@@ -1,4 +1,4 @@
-import { z } from 'zod'
+import { z } from 'zod';
 
 // req vaidation
 // body -> object
@@ -10,9 +10,9 @@ const create_user_zod_schema = z.object({
     }),
     password: z.string().optional(),
   }),
-})
+});
 // await create_user_zod_schema.parseAsync(req)
 
 export const UserValidation = {
   create_user_zod_schema,
-}
+};
