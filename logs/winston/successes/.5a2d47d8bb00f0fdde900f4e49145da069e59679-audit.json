@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management/university-management-auth-service/logs/winston/successes/.5a2d47d8bb00f0fdde900f4e49145da069e59679-audit.json",
+    "files": [
+        {
+            "date": 1686238662663,
+            "name": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management/university-management-auth-service/logs/winston/successes/um-2023-06-08-21-success.log",
+            "hash": "d7ad4e1dc0f5a6f6accaa6adb19a8d58353aeab8a22a5a2a29baf6ccef64a23e"
+        },
+        {
+            "date": 1686240536039,
+            "name": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management/university-management-auth-service/logs/winston/successes/um-2023-06-08-22-success.log",
+            "hash": "aab6895ef6703ef177494a398feeda5a8d28dea1968e40d935c45df0dcec4674"
+        },
+        {
+            "date": 1686244371633,
+            "name": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management/university-management-auth-service/logs/winston/successes/um-2023-06-08-23-success.log",
+            "hash": "dffc6a569f7e2d65d4ae9442b9865796241890455bc320655ffd587b173c574f"
+        }
+    ],
+    "hashType": "sha256"
+}
