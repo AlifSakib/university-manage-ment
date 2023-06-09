@@ -34,6 +34,26 @@
             "date": 1686320053648,
             "name": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management/university-management-auth-service/logs/winston/errors/um-2023-06-09-20-error.log",
             "hash": "b14f360472dad6a569acaec93b0fa116be5404464118ae02b081ed1e614d2336"
+        },
+        {
+            "date": 1686325962694,
+            "name": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management/university-management-auth-service/logs/winston/errors/um-2023-06-09-21-error.log",
+            "hash": "6545aebd0e37eb841dd4166d5e6cbfef9dfbc6eae6ddf2458e080506592e6e08"
+        },
+        {
+            "date": 1686331807268,
+            "name": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management/university-management-auth-service/logs/winston/errors/um-2023-06-09-23-error.log",
+            "hash": "1eac39f8728860729bc314c9d0ff7f82694c31e889d8e20ccc32539ac06a28de"
+        },
+        {
+            "date": 1686334378907,
+            "name": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management/university-management-auth-service/logs/winston/errors/um-2023-06-10-00-error.log",
+            "hash": "f42266d0d52e7540c4b48db37034251cd942d50463ea6d5fc8f7b4c388b17284"
+        },
+        {
+            "date": 1686338990989,
+            "name": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management/university-management-auth-service/logs/winston/errors/um-2023-06-10-01-error.log",
+            "hash": "2cce88f3a8df97f3df1e4afcd799de1ed5a6b4b09f113c67ec0a325368663659"
         }
     ],
     "hashType": "sha256"

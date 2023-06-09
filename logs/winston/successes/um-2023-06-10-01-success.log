@@ -1,0 +1,35 @@
+Sat Jun 10 2023 1:23:25 [um] info: Global Error Handler Cast to ObjectId failed for value "6483649436c6f19f148a541" (type string) at path "_id" for model "AcademicSemester"
+Sat Jun 10 2023 1:30:31 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:30:31 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:30:41 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:30:41 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:30:44 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:30:44 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:31:17 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:31:17 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:31:45 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:31:45 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:31:48 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:31:48 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:32:7 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:32:7 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:32:18 [um] info: Global Error Handler Cast to ObjectId failed for value "6483649436c6f19f148a5" (type string) at path "_id" for model "AcademicSemester"
+Sat Jun 10 2023 1:32:42 [um] info: Global Error Handler Cast to ObjectId failed for value "64834ca54b4c32d75" (type string) at path "_id" for model "AcademicSemester"
+Sat Jun 10 2023 1:32:58 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:32:58 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:33:1 [um] info: Global Error Handler Cast to ObjectId failed for value "64834ca54b4c32d75" (type string) at path "_id" for model "AcademicSemester"
+Sat Jun 10 2023 1:39:59 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:39:59 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:40:10 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:40:10 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:41:47 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:41:47 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:41:51 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:41:51 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:46:44 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:46:44 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:46:50 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:46:50 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:46:55 [um] info: Connected to database 🚀
+Sat Jun 10 2023 1:46:55 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 1:47:11 [um] info: Global Error Handler Cast to ObjectId failed for value "64834ca54b4c32d75" (type string) at path "_id" for model "AcademicSemester"
