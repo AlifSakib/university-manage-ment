@@ -34,11 +34,11 @@ async function bootstrap() {
   });
 }
 
-process.on('SIGTERM', () => {
-  logger.info('SIGTERM received. Shutting down gracefully');
-  if (server) {
-    server.close();
-  }
-});
-
 bootstrap();
+
+// process.on('SIGTERM', () => {
+//   logger.info('SIGTERM received. Shutting down gracefully');
+//   if (server) {
+//     server.close();
+//   }
+// });

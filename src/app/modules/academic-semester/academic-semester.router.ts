@@ -13,4 +13,6 @@ router.post(
   acamedic_semester_controller.create_semester
 );
 
+router.get('/', acamedic_semester_controller.get_all_semesters);
+
 export const academic_semester_route = router;
