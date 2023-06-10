@@ -14,7 +14,7 @@ router.post(
 );
 
 router.get('/:id', acamedic_semester_controller.get_single_semester);
-router.get('/', acamedic_semester_controller.get_all_semesters);
+
 router.patch(
   '/:id',
   RequestValidation.validate_request(
@@ -22,5 +22,7 @@ router.patch(
   ),
   acamedic_semester_controller.update_semester
 );
+router.delete('/:id', acamedic_semester_controller.delete_semester);
+router.get('/', acamedic_semester_controller.get_all_semesters);
 
 export const academic_semester_route = router;

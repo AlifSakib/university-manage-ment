@@ -127,9 +127,17 @@ const update_semester = async (
   return result;
 };
 
+const delete_semester = async (
+  id: string
+): Promise<IAcademicSemester | null> => {
+  const result = await AcademicSemester.findByIdAndDelete(id);
+  return result;
+};
+
 export const academic_semester_service = {
   create_semester,
   get_all_semesters,
   get_single_semester,
   update_semester,
+  delete_semester,
 };

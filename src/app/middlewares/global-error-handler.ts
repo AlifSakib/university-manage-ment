@@ -1,16 +1,20 @@
 /* eslint-disable no-unused-expressions */
-import { ErrorRequestHandler } from 'express';
+import { ErrorRequestHandler, Request, Response } from 'express';
 import { Error } from 'mongoose';
 import { ZodError } from 'zod';
 import config from '../../config';
 import ApiErrror from '../../errors/api-error';
+import handleCastError from '../../errors/handle-cast-error';
 import handle_validation_error from '../../errors/handle-validation-error';
 import handleZodError from '../../errors/handle-zod-error';
 import { IGenericErrorMessage } from '../../interfaces/error';
 import { errorlogger, logger } from '../../share/logger';
-import handleCastError from '../../errors/handle-cast-error';
 
-const global_error_handler: ErrorRequestHandler = (err, req, res, next) => {
+const global_error_handler: ErrorRequestHandler = (
+  err,
+  req: Request,
+  res: Response
+) => {
   config.env === 'development'
     ? logger.info('Global Error Handler', err)
     : errorlogger.error('Global Error Handler', err);
@@ -62,8 +66,6 @@ const global_error_handler: ErrorRequestHandler = (err, req, res, next) => {
     errorMessages,
     stack: config.env !== 'production' ? err?.stack : undefined,
   });
-
-  next();
 };
 
 export default global_error_handler;
