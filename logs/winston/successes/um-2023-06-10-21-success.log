@@ -1,0 +1,110 @@
+Sat Jun 10 2023 21:9:2 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:9:2 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:10:54 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:10:54 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:11:5 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:11:5 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:11:11 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:11:11 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:11:27 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:11:27 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:11:54 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:11:54 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:18:1 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:18:1 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:18:25 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:18:25 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:18:36 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:18:36 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:18:43 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:18:43 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:18:52 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:18:52 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:19:1 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:19:1 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:19:5 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:19:5 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:19:11 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:19:11 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:19:17 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:19:17 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:19:37 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:19:37 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:24:31 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:24:31 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:24:39 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:24:39 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:26:34 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:26:34 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:26:45 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:26:45 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:26:57 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:26:57 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:27:55 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:27:55 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:28:16 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:28:16 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:28:20 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:28:20 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:29:8 [um] info: Global Error Handler Unexpected token } in JSON at position 50
+Sat Jun 10 2023 21:29:19 [um] info: Global Error Handler Unexpected token } in JSON at position 50
+Sat Jun 10 2023 21:29:23 [um] info: Global Error Handler [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Code is Required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "start_month"
+    ],
+    "message": "Start Month is Required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "end_month"
+    ],
+    "message": "End Month is Required"
+  }
+]
+Sat Jun 10 2023 21:33:28 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:33:28 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:33:40 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:33:40 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:33:49 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:33:49 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:34:2 [um] info: Global Error Handler [
+  {
+    "code": "custom",
+    "message": "Either Title or Code is Required",
+    "path": []
+  }
+]
+Sat Jun 10 2023 21:36:4 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:36:4 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:36:44 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:36:44 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:36:51 [um] info: Connected to database 🚀
+Sat Jun 10 2023 21:36:51 [um] info: Server launched 🚀 at port 5000
+Sat Jun 10 2023 21:36:54 [um] info: Global Error Handler Invalid Semester Code
+Sat Jun 10 2023 21:37:1 [um] info: Global Error Handler Invalid Semester Code
+Sat Jun 10 2023 21:37:6 [um] info: Global Error Handler [
+  {
+    "code": "custom",
+    "message": "Either Title or Code is Required",
+    "path": []
+  }
+]
