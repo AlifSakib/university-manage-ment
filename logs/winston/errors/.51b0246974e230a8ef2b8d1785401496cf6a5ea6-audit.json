@@ -64,6 +64,11 @@
             "date": 1686409739997,
             "name": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management/university-management-auth-service/logs/winston/errors/um-2023-06-10-21-error.log",
             "hash": "a1078c8e73903abcecda164d5efb550aed2b921d0a014c1405254d196afa054e"
+        },
+        {
+            "date": 1686417735383,
+            "name": "/home/lunerlynx/Desktop/luner.lynx/web_level_2/university-management/university-management-auth-service/logs/winston/errors/um-2023-06-10-23-error.log",
+            "hash": "e7e6419a30fcc90dd810261766a9af5edeb792782c11dd8c2cc980594b557e3c"
         }
     ],
     "hashType": "sha256"
